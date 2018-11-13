@@ -1,0 +1,8 @@
+flask
+wtforms
+jsonschema
+zeroconf==0.17.5
+requests
+netifaces
+gitpython
+ramlfications
